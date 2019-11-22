@@ -1,3 +1,3 @@
-# angular-b4umb5
+# angular-login- sample
+# To learn Angular JS created the sample project with local login and register
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-b4umb5)
